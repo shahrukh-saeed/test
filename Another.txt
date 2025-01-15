@@ -2,4 +2,4 @@ test
 
 modified
 
-changes in v2 branch
+should cause a merge conflict
